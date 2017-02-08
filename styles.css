@@ -6,6 +6,7 @@ background: -webkit-linear-gradient(left,  rgba(210,255,82,0.3) 2%,rgba(196,243,
 background: linear-gradient(to right,  rgba(210,255,82,0.3) 2%,rgba(196,243,73,0.3) 67%,rgba(189,237,68,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
 filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#4dd2ff52', endColorstr='#bded44',GradientType=1 ); /* IE6-9 */
 font-family:  Questrial, Arial, sans-serif;
+max-width:900px;
 }
 
 .intro_pg h1, h2 {
